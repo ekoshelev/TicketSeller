@@ -1,5 +1,5 @@
 // Elizabeth Koshelev
-// COSI 12B, Spring 2015 
+// COSI 12B, Spring 2016
 // Programming Assignment #3, 3/3/16
 // This program returns a certain number of tickets sold and profits.
 public class TestTicket {

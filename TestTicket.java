@@ -1,7 +1,7 @@
 // Elizabeth Koshelev
 // COSI 12B, Spring 2015 
 // Programming Assignment #3, 3/3/16
-// This program returns the tickets sold and profits.
+// This program returns a certain number of tickets sold and profits.
 public class TestTicket {
 	public static void main(String[] args) {
 		printStats(sortTickets()); //This calls other methods to print the ticket.
